@@ -1,0 +1,46 @@
+.navbar,
+footer{
+    background-color: #563d7c;
+    color: #FFF !important; 
+}
+.navbar-brand,
+.navbar .nav-link {
+    color: #FFF !important;
+}
+footer{ 
+    text-align: center;
+    vertical-align: middle;
+    line-height: 60px; 
+    height: 60px;
+}
+.row{
+    padding: 10px;
+}
+ul{
+    padding: 0;
+}
+ul li{
+    list-style: none;
+}
+.side_nav{
+    background-color: #f9f5ff;
+    color: #563d7c;
+    padding: 10px; 
+}
+.bd-example button{
+    margin-right: 5px;
+}
+#updateText{ 
+    white-space: pre-wrap;
+}
+.no-x-p{
+    padding-left: 0;
+    padding-right: 0
+}
+
+.p-l-none{
+    padding-left: 0 !important;
+}
+.p-r-none{
+    padding-right: 0 !important;
+}
